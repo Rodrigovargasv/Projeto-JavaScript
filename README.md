@@ -19,7 +19,7 @@ Navagador de sua prefencia.
 
 # Referências do projeto.
 - https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
-- Outras referencia : sites e forum de HTML, CSS e JAVASCRITP.
+- Outras referencia : sites e forum de HTML, CSS e JAVASCRIPT.
 
 # Pré-visualização do projeto
 * https://loom.com/share/7106730e3fc04d199d4ec924dc88a98a
