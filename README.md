@@ -2,9 +2,11 @@
 Sistema web de calculo de IMC
 
 # Requisitos
-JavaScript.
-HTML - 5.
-CSS - 3.
+JavaScript
+
+HTML - 5
+
+CSS - 3
 
 Node.js
 
