@@ -1,9 +1,9 @@
 # Projeto-JavaScript
-Sistema de calculo de IMC
+Sistema web de calculo de IMC
 
 # Requisitos
 JavaScript.
-HTML - 5
+HTML - 5.
 CSS - 3.
 
 Node.js
